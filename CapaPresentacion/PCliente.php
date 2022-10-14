@@ -47,12 +47,12 @@ class PCliente{
     <form method="POST">
         <table class="table table-responsive table-bordered">
             <div class="col-md-4 form-group">
-                <label><strong>Nombre Completo (*)</strong></label>
+                <label><strong>Nombre Completo </strong></label>
                 <input type="text" name="nombre" class="form-control"
                        required placeholder="ingrese nombre de cliente" autocomplete="off">
             </div>
             <div class="col-md-4 form-group">
-                <label><strong>Telefono (*)</strong></label>
+                <label><strong>Telefono </strong></label>
                 <input type="number" name="telefono" class="form-control"
                        required placeholder="ingrese nro de telefono" autocomplete="off">
             </div>
